@@ -1,4 +1,4 @@
-# ice-cream-website
+# django based icecream website 
 
 its my 1st repository so bare with me
 
